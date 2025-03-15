@@ -1,6 +1,6 @@
 :root {
   --font-primary: "Cabin", sans-serif;
-  --color-container-background: #3434349b;
+  --color-container-background: #8686869b;
   --color-text: #e1e1e1;
   --color-primary-1: #FF4A5B;
   --color-background-1: #EFE8D2;
@@ -10,6 +10,9 @@
   --color-background-3: #575A39;
   --color-primary-4: #4BADCE;
   --color-background-4: #06374D;
+
+  --color-text-bloom: #dcdcdc60;
+  --color-text-shadow: #00000060;
 }
 
 * {
@@ -69,6 +72,15 @@ body {
   padding: 1rem;
   border-radius: 50px;
   border: 10px solid var(--color-primary);
+  /* Add glossy effect to background using variables */
+  text-shadow:
+    0 0 15px var(--color-text-bloom),
+    0 2px 4px var(--color-text-shadow);
+  box-shadow:
+    inset 0 -5px 20px var(--color-text-shadow),
+    inset 0 5px 20px var(--color-text-bloom),
+    -8px 8px 5px var(--color-text-shadow),
+    5px 18px 10px var(--color-text-shadow);
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -104,11 +116,11 @@ body {
   justify-content: center;
   align-items: center;
   margin-top: 1rem;
+  gap: 1rem;
 
   img {
     width: 50px;
     height: 50px;
-    margin-right: 1rem;
   }
 }
 
@@ -128,7 +140,7 @@ body {
 a {
   text-decoration: none;
   color: var(--color-primary);
-  font-weight: bold;
+  font-weight: bolder;
 
  &:hover {
     text-decoration: underline;
