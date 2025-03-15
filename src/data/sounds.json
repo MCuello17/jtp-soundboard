@@ -1,0 +1,106 @@
+{
+  "AMANDA": [
+    {
+      "name": "AH",
+      "src": "/src/media/sounds/AMANDA/AH.mp3"
+    },
+    {
+      "name": "DEVILS BUTTHOLE",
+      "src": "/src/media/sounds/AMANDA/DEVILS BUTTHOLE.mp3"
+    },
+    {
+      "name": "GASP",
+      "src": "/src/media/sounds/AMANDA/GASP.mp3"
+    },
+    {
+      "name": "GTR STING",
+      "src": "/src/media/sounds/AMANDA/GTR STING.mp3"
+    },
+    {
+      "name": "OMGILOVETHAT",
+      "src": "/src/media/sounds/AMANDA/OMGILOVETHAT.mp3"
+    },
+    {
+      "name": "WOAH",
+      "src": "/src/media/sounds/AMANDA/WOAH.mp3"
+    },
+    {
+      "name": "WORK",
+      "src": "/src/media/sounds/AMANDA/WORK.mp3"
+    }
+  ],
+  "BRANDON": [
+    {
+      "name": "GODFLIBBITYFLABIT",
+      "src": "/src/media/sounds/BRANDON/GODFLIBBITYFLABIT.mp3"
+    },
+    {
+      "name": "KNIVES FOR KIDS",
+      "src": "/src/media/sounds/BRANDON/KNIVES FOR KIDS.mp3"
+    },
+    {
+      "name": "LEWD SKELETON",
+      "src": "/src/media/sounds/BRANDON/LEWD SKELETON.mp3"
+    }
+  ],
+  "ERIC": [
+    {
+      "name": "EH",
+      "src": "/src/media/sounds/ERIC/EH.mp3"
+    },
+    {
+      "name": "GODZILLA",
+      "src": "/src/media/sounds/ERIC/GODZILLA.mp3"
+    },
+    {
+      "name": "GOOD FUCKING IDEA",
+      "src": "/src/media/sounds/ERIC/GOOD FUCKING IDEA.mp3"
+    },
+    {
+      "name": "HEH",
+      "src": "/src/media/sounds/ERIC/HEH.mp3"
+    },
+    {
+      "name": "HELLO MY HONEY",
+      "src": "/src/media/sounds/ERIC/HELLO MY HONEY.mp3"
+    },
+    {
+      "name": "STFU",
+      "src": "/src/media/sounds/ERIC/STFU.mp3"
+    },
+    {
+      "name": "THATS CALLED YES AND",
+      "src": "/src/media/sounds/ERIC/THATS CALLED YES AND.mp3"
+    }
+  ],
+  "JULIA": [
+    {
+      "name": "BANANA",
+      "src": "/src/media/sounds/JULIA/BANANA.mp3"
+    },
+    {
+      "name": "BIG NATTIES",
+      "src": "/src/media/sounds/JULIA/BIG NATTIES.mp3"
+    },
+    {
+      "name": "GOOD JOB BABY",
+      "src": "/src/media/sounds/JULIA/GOOD JOB BABY.mp3"
+    },
+    {
+      "name": "HOLE SO DEEP",
+      "src": "/src/media/sounds/JULIA/HOLE SO DEEP.mp3"
+    },
+    {
+      "name": "IMFURIOUS",
+      "src": "/src/media/sounds/JULIA/IMFURIOUS.mp3"
+    },
+    {
+      "name": "SKIN BLUE DICKS OUT",
+      "src": "/src/media/sounds/JULIA/SKIN BLUE DICKS OUT.mp3"
+    },
+    {
+      "name": "TOOTIE",
+      "src": "/src/media/sounds/JULIA/TOOTIE.mp3"
+    }
+  ]
+}
