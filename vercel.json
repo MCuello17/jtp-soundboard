@@ -1,5 +1,3 @@
 {
-  "build": {
-    "command": "node ./src/js/generateJSON.js && echo 'Build complete!'"
-  }
+  "buildCommand": "node ./src/js/generateJSON.js && echo 'Build complete!'"
 }
