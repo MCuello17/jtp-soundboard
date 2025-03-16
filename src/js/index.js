@@ -50,7 +50,6 @@ const updateFilter = (event) => {
 
 // Initialize
 document.addEventListener('DOMContentLoaded', async () => {
-  // Get a theme from 1 to 4 and apply body class theme-x
   const randomTheme = Math.floor(Math.random() * 4) + 1;
   document.body.classList.add(`theme-${randomTheme}`);
 
