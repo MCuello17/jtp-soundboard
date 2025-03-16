@@ -6,7 +6,6 @@ This is a fan-made soundboard built with love for the **Join The Party** podcast
 
 🎧 [Visit the Join The Party Podcast website!](https://www.jointhepartypod.com/)
 
----
 
 ## 🎧 Features
 
@@ -16,14 +15,10 @@ This is a fan-made soundboard built with love for the **Join The Party** podcast
 - **Dynamic theme switching**: The website adapts its color scheme to match each campaign's vibe.
 - **Old-school aesthetic**: Designed to evoke the nostalgic feel of early 2000s Flash websites.
 
----
-
 ## 💻 Tech Stack
 
 - **Vanilla HTML, CSS, and JavaScript** — no frameworks, just pure code!
 - **Node.js** for generating the soundboard JSON data.
-
----
 
 ## 🔨 Setup
 
@@ -42,9 +37,7 @@ This is a fan-made soundboard built with love for the **Join The Party** podcast
 
 5. Open `index.html` in your favorite browser and enjoy!
 
----
-
-## 🎉 Example Folder Structure
+### Example Folder Structure
 
 ```
 /src
@@ -60,11 +53,14 @@ This is a fan-made soundboard built with love for the **Join The Party** podcast
               └── EH.mp3
 ```
 
----
+## 🚀 Deployment
+
+**Running on Vercel?**  
+If you're hosting this project on Vercel (e.g., [https://jtp-soundboard.vercel.app/](https://jtp-soundboard.vercel.app/)), the `vercel.json` configuration file ensures that `node ./src/js/generateJSON.js` runs automatically during the build. This means all buttons will update without you needing to run the script manually!
+
 
 ## 💚 Acknowledgments
 
 Massive thanks to the Join The Party team for providing the sounds and allowing this project to exist.
 
 📢 If you’re not already listening to the podcast, go fix that immediately: [Join The Party](https://www.jointhepartypod.com/)
-
